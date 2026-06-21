@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "AIZEN_SON",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "AnimeSpace.aternos.me",
+    "port": 43741,
     "version": "1.21.1"
   },
   "position": {
@@ -27,11 +27,11 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "ANMOL'S MANAGER!",
         "I like to play Minecraft!"
       ]
     },
